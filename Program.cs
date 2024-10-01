@@ -17,7 +17,7 @@ class Program
         double y = 13.4;
         Console.WriteLine(y + x);
 
-        // en character det er en datatype som inneholder én karakter
+        // en character det er en datatype som inneholder én karakter, den representerer tegn i UTF-16 encoding.
         /*
         UTF-16 encoding
         */
